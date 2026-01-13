@@ -1,0 +1,16 @@
+flask>=3.0.3
+numpy>=2.1.0
+pandas>=2.2.3
+scikit-learn>=1.6.0
+scapy>=2.6.0
+matplotlib>=3.9.2
+psutil>=6.1.0
+json5>=0.10.0
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+websockets==12.0
+
+
+
